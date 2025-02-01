@@ -22,3 +22,11 @@ body{
     margin-right:auto ;
     margin-bottom: 24px;
 }
+.category {
+    background-color: #f4d04e;
+    width:auto;
+    padding: 4px 12px;
+    display: inline;
+    font-size: 14px;
+    font-weight: bold;
+}
