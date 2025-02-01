@@ -46,3 +46,18 @@ body{
     font-weight:500;
     margin-bottom:32px;
 }
+.author{
+    display: flex;
+}
+.author p{
+    display: inline-block;
+    font-size:14px;
+    font-weight: bold;
+    color:#111111;
+    margin-left: 12px;
+    margin-top: 7px;
+}
+.author img{
+    width:32px;
+    height:32px;
+}
