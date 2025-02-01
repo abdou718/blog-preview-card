@@ -16,3 +16,9 @@ body{
     box-shadow: 10px 10px black;
     transition: box-shadow 0.3s ease; /* Smooth transition for the shadow effect */
 }
+.card img{
+    width: 100%;
+    margin-left:auto;
+    margin-right:auto ;
+    margin-bottom: 24px;
+}
